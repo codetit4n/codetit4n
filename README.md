@@ -2,7 +2,7 @@
 <h3 align="center">I am a Blockchain Developer with a passion for building decentralized applications and systems using blockchain technology. I am always looking to learn and expand my skillset, and enjoy collaborating with cross-functional teams to deliver innovative solutions.</h3>
 <br/>
 
-- 💬 Ask me about **Blockchain, Defi, NFTs, Solidity etc.**
+- 💬 Ask me about **Blockchain, Defi, NFTs, Solidity, JavaScript, Rust, TypeScript etc.**
 
 - 🌱 I’m currently learning **how to leverage TypeScript in different projects.**
 
