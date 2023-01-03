@@ -12,10 +12,7 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-
 ![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeTIT4N&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=codeTIT4N&theme=dark)](https://git.io/streak-stats)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
