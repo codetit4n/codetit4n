@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lokesh</h1>
-<h3 align="center">I am a Blockchain Developer with a passion for building decentralized applications and systems using blockchain technology. I am always looking to learn and expand my skillset, and enjoy collaborating with cross-functional teams to deliver innovative solutions.</h3>
+<h3 align="center">I am a Blockchain Developer with a passion for building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skillset.</h3>
 <br/>
 
 - 💬 Ask me about **Blockchain, Defi, NFTs, Solidity, JavaScript, Rust, TypeScript etc.**
