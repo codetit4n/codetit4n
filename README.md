@@ -12,7 +12,7 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-![Lokesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=codeTIT4N&show_icons=true&theme=dark)
+![Lokesh's GitHub stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=dark)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
