@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Lokesh</h1>
+<h1 align="center">Hey 👋, I'm Lokesh</h1>
 <h3 align="center">I am a Blockchain Developer with a passion for building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skillset.</h3>
 <br/>
 
@@ -12,7 +12,7 @@
 
 <h3 align="left">My GitHub Stats:</h3>
 
-![Lokesh's GitHub stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=dark)
+![Lokesh's GitHub stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=tokyonight)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
