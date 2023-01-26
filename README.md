@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **lokeshkumar636@yahoo.com**
 
-- 📄 My Resume/CV [https://drive.google.com/file/d/1qrplzchh9BzYexh8ezj5qa_tyVlCz1xP/view](https://drive.google.com/file/d/1qrplzchh9BzYexh8ezj5qa_tyVlCz1xP/view)
-
 <h3 align="left">My GitHub Stats:</h3>
 
 ![Lokesh's GitHub stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=tokyonight)
