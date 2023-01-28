@@ -20,7 +20,7 @@
 <hr/>
 <h3 align="left">Social links:</h3>
 <p align="left">
-<a href="https://lokeshkr.com" target="_blank"><img align="center" src="./assets/website.svg" alt="personal-website-link" height="30" width="40" /></a>
+<a href="https://lokeshkr.com" target="_blank"><img align="center" src="./assets/web.svg" alt="personal-website-link" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="40" /></a>
 <a href="https://blog.lokeshkr.com" target="_blank"><img align="center" src="./assets/hashnode.svg" alt="blog-link" height="30" width="40" /></a>
 <a href="https://t.me/lokesshk" target="_blank"><img align="center" src="./assets/telegram.svg" alt="telegram-link" height="30" width="40" /></a>
