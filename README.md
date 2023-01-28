@@ -22,7 +22,14 @@
 </p>
 
 <hr/>
-<div align="left">
+<!-- <div align="left">
  <img style="max-width: 100%;" src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" />
-<img style="max-width: 100%;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" />
+</div>
+<div align="right">
+ <img style="max-width: 100%;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" />
+</div> -->
+
+<div style="width: 100%;">
+ <img src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" />
+ <img src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" />
 </div>
