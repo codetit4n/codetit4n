@@ -23,4 +23,11 @@
 
 <hr/>
 
-![github-stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia "github-stats") ![github-streak](https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage "github-streak")
+<!-- ![github-stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia "github-stats") ![github-streak](https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage "github-streak") -->
+
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia"></td>
+    <td><img src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage"></td>
+  </tr>
+</table>
