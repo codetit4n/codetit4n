@@ -21,13 +21,18 @@
 <a href="https://www.youtube.com/channel/UCVWq-83WQElIoIN6NGdCXLw" target="_blank"><img align="center" src="./assets/youtube.svg" alt="youtube-link" height="30" width="40" /></a>
 </p>
 
-<hr/>
+<br/>
 
-<!-- ![github-stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia "github-stats") ![github-streak](https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage "github-streak") -->
-
+<details>
+  <summary>My GitHub Stats</summary>
+    <td><img src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" alt="github-stats">
+    <td><img src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" alt="github-streak">
+</details>
+<!-- Table form -->
+<!-- 
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia"></td>
-    <td><img src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage"></td>
+    <td><img src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" alt="github-stats"></td>
+    <td><img src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" alt="github-streak"></td>
   </tr>
-</table>
+</table> -->
