@@ -23,7 +23,7 @@
 <hr/>
 <table>
   <tr>
-    <td><img src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" alt="github-stats"></td>
-    <td><img src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" alt="github-streak"></td>
+    <td><img style="object-fit: cover;" src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" alt="github-stats"></td>
+    <td><img style="object-fit: cover;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" alt="github-streak"></td>
   </tr>
 </table>
