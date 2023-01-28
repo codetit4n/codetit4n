@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Lokesh</h1>
+<h1 align="center">Namaskaram 🙏 , I'm Lokesh</h1>
 <h3 align="center">I am a Blockchain Developer with a passion for building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skillset.</h3>
 <hr/>
 
@@ -10,13 +10,6 @@
 
 - 📫 How to reach me **lokeshkumar636@yahoo.com**
 
-<!-- <h3 align="left">My GitHub Stats:</h3> -->
-
-<!-- ![Lokesh's GitHub stats](https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=tokyonight) -->
-<hr/>
-<div align="center">
- <img style="max-width: 100%;" src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=tokyonight" />
-</div>
 <hr/>
 <h3 align="left">Social links:</h3>
 <p align="left">
@@ -27,3 +20,9 @@
 <a href="https://twitter.com/lokeshtweets_" target="_blank"><img align="center" src="./assets/twitter.svg" alt="twitter-link" height="30" width="40" /></a>
 <a href="https://www.youtube.com/channel/UCVWq-83WQElIoIN6NGdCXLw" target="_blank"><img align="center" src="./assets/youtube.svg" alt="youtube-link" height="30" width="40" /></a>
 </p>
+
+<hr/>
+<div>
+ <img style="max-width: 100%;" src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" />
+<img style="max-width: 100%;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=ayu-mirage" />
+</div>
