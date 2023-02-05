@@ -1,10 +1,12 @@
 <h1 align="center">Namaskaram 🙏 , I'm Lokesh</h1>
-<h3 align="center">I am a Blockchain Developer with a passion for building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skillset.</h3>
+<h3 align="center">I am a Blockchain Developer who loves building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skill set.</h3>
 <hr/>
 
 - 💬 Ask me about **Blockchain, Defi, NFTs, Solidity, JavaScript, Rust, TypeScript etc.**
 
 - 🌱 I’m currently learning **how to leverage TypeScript and Rust in different projects.**
+
+- 🖥️ I am all for Open Source Software.
 
 - 📝 I write articles on [blog.lokeshkr.com](https://blog.lokeshkr.com)
 
