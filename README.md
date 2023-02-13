@@ -2,11 +2,11 @@
 <h3 align="center">I am a Blockchain Developer who loves building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skill set.</h3>
 <hr/>
 
-- 💬 Ask me about **Blockchain, Defi, NFTs, Solidity, JavaScript, Rust, TypeScript etc.**
+- 🔭 I’m currently **Building GameFi Infrastructure** at [LYNC](https://www.lync.world/)
 
-- 🌱 I’m currently learning **how to leverage TypeScript and Rust in different projects.**
+- 💬 Ask me about **Blockchain, Defi, NFTs, Solidity, JavaScript, TypeScript, Rust etc.**
 
-- 🖥️ I am all for Open Source Software.
+- 🌱 I’m currently learning **how to leverage Rust and TypeScript in different projects.**
 
 - 📝 I write articles on [blog.lokeshkr.com](https://blog.lokeshkr.com)
 
