@@ -26,7 +26,7 @@
 <table>
   <tr>
 <!--     <td><img style="object-fit: cover;" src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" alt="github-stats"></td> -->
-    <td><img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=000&tc=fff" alt="github-stats"></td>
+    <td><img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats"></td>
     <td><img style="object-fit: cover;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=buefy-dark" alt="github-streak"></td>
   </tr>
 </table>
