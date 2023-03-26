@@ -23,10 +23,14 @@
 <a href="https://www.youtube.com/channel/UCVWq-83WQElIoIN6NGdCXLw" target="_blank"><img align="center" src="./assets/youtube.svg" alt="youtube-link" height="30" width="40" /></a>
 </p>
 <hr/>
-<table>
+<!-- <table>
   <tr>
-<!--     <td><img style="object-fit: cover;" src="https://github-readme-stats-codetit4n.vercel.app/api?username=codeTIT4N&show_icons=true&theme=algolia" alt="github-stats"></td> -->
     <td><img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats"></td>
     <td><img style="object-fit: cover;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=buefy-dark" alt="github-streak"></td>
   </tr>
-</table>
+</table> -->
+<img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats">
+<details>
+  <summary>My GitHub Streak</summary>
+  <img style="object-fit: cover;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=buefy-dark" alt="github-streak">
+</details>
