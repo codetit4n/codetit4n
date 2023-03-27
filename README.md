@@ -32,5 +32,6 @@
 <img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats">
 <details>
   <summary>My GitHub Streak</summary>
+  <h3>GitHub Streak</h3>
   <img style="object-fit: cover;" src="https://github-readme-streak-stats-codetit4n.vercel.app/?user=codeTIT4N&theme=buefy-dark" alt="github-streak">
 </details>
