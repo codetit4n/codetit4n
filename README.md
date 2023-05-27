@@ -15,12 +15,24 @@
 <hr/>
 <h3 align="left">Social links:</h3>
 <p align="left">
-<a href="https://lokeshkr.com" target="_blank"><img align="center" src="./assets/web.svg" alt="personal-website-link" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank"><img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="40" /></a>
-<a href="https://blog.lokeshkr.com" target="_blank"><img align="center" src="./assets/hashnode.svg" alt="blog-link" height="30" width="40" /></a>
-<a href="https://twitter.com/lokeshtweets_" target="_blank"><img align="center" src="./assets/twitter.svg" alt="twitter-link" height="30" width="40" /></a>
-<a href="https://t.me/lokesshk" target="_blank"><img align="center" src="./assets/telegram.svg" alt="telegram-link" height="30" width="40" /></a>
-<a href="https://www.youtube.com/channel/UCVWq-83WQElIoIN6NGdCXLw" target="_blank"><img align="center" src="./assets/youtube.svg" alt="youtube-link" height="30" width="40" /></a>
+<a href="https://lokeshkr.com">
+<img align="center" src="./assets/ico/web.ico" alt="personal-website-link" height="30" width="30" />
+</a>
+<a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank">
+<img align="center" src="./assets/ico/linkedin.ico" alt="linkedin-link" height="30" width="30" />
+</a>
+<a href="https://blog.lokeshkr.com">
+<img align="center" src="./assets/ico/hashnode.ico" alt="blog-link" height="30" width="30" />
+</a>
+<a href="https://twitter.com/lokeshtweets_">
+<img align="center" src="./assets/ico/twitter.ico" alt="twitter-link" height="30" width="30" />
+</a>
+<a href="https://t.me/lokesshk">
+<img align="center" src="./assets/ico/telegram.ico" alt="telegram-link" height="30" width="30" />
+</a>
+<a href="https://www.youtube.com/channel/UCVWq-83WQElIoIN6NGdCXLw">
+<img align="center" src="./assets/ico/youtube.ico" alt="youtube-link" height="30" width="30"/>
+</a>
 </p>
 <hr/>
 <!-- <table>
