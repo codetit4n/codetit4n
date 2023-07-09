@@ -1,5 +1,5 @@
-<h2 align="center">Namaskaram 🙏 , I'm Lokesh</h2>
-<h4 align="center">I am a Blockchain Developer who loves building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skill set.</h4>
+<h1 align="center">Namaskaram 🙏 , I'm Lokesh</h1>
+<h3 align="center">I am a Blockchain Developer who loves building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skill set.</h3>
 <hr/>
 
 - 🔭 I’m currently **Building GameFi Infrastructure** at [LYNC](https://www.lync.world/)
