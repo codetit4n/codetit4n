@@ -15,6 +15,15 @@
 
 <hr/>
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   9 hrs 15 mins   ████████░░░░░░░░░░░░░░░░░   31.59 %
+Rust         7 hrs 19 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.03 %
+Markdown     5 hrs 25 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.50 %
+TypeScript   2 hrs 29 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.51 %
+Lua          2 hrs 10 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.45 %
+```
+
 <!--END_SECTION:waka-->
 
 
