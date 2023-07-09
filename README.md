@@ -12,6 +12,12 @@
 
 - 📫 How to reach me **lokeshkumar636@yahoo.com**
 
+
+<hr/>
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 <hr/>
 <h3 align="left">Social links:</h3>
 <p align="left">
