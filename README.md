@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Lua          8 hrs 50 mins   █████░░░░░░░░░░░░░░░░░░░░   19.93 %
-Rust         8 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.49 %
-TypeScript   5 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.01 %
-Solidity     4 hrs 9 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-Markdown     2 hrs 55 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.60 %
+Lua          8 hrs 33 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.71 %
+Rust         7 hrs 10 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.70 %
+JavaScript   5 hrs 9 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.29 %
+TypeScript   5 hrs 2 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.04 %
+Markdown     3 hrs 15 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   07.13 %
 ```
 
 <!--END_SECTION:waka-->
