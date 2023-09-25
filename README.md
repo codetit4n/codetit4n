@@ -27,9 +27,11 @@
 <img align="center" src="https://lokeshkr.com/assets/svg/twitter.svg" alt="twitter-link" height="30" width="30" >
 </a>
 &nbsp
+<!--
 <a href="https://lokeshkr.com">
 <img align="center" src="https://lokeshkr.com/assets/svg/web.svg" alt="personal-website-link" height="30" width="30" >
 </a>
+-->
 
 <hr/>
 
@@ -53,7 +55,7 @@ Other          1 hr 11 mins    █▒░░░░░░░░░░░░░░�
 </a>
 -->
 <details>
-  <summary>📈 GitHub Sats</summary>
+  <summary>📈 GitHub Stats</summary>
   <br/>
 <img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats">
 </details>
