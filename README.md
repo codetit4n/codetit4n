@@ -4,11 +4,9 @@
 
 - 🔭 I’m currently **Building GameFi Infrastructure** at [LYNC](https://www.lync.world/)
 
-- 💬 Ask me about **Blockchain, Defi, NFTs, Solidity, JavaScript, TypeScript, Rust etc.**
+- 💬 Ask me about **Blockchain, Account Abstraction, NFTs, Defi, Solidity, TypeScript, Rust, Move etc.**
 
-- 🌱 I’m currently learning **how to leverage Rust and TypeScript in different projects.**
-
-- 📝 Sometimes, I write articles on [blog.lokeshkr.com](https://blog.lokeshkr.com)
+- 🌱 I’m currently focusing on **Rust and [Move](https://aptos.dev/move/move-on-aptos)**
 
 - 📫 How to reach me **lokeshkumar636@yahoo.com**
 
