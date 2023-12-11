@@ -38,11 +38,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Move         11 hrs 21 mins  ████████░░░░░░░░░░░░░░░░░   32.24 %
-Solidity     8 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   24.78 %
-JavaScript   3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.33 %
-Markdown     2 hrs 48 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.96 %
-TypeScript   2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 %
+Move         11 hrs 21 mins  ████████▒░░░░░░░░░░░░░░░░   33.09 %
+Solidity     8 hrs 43 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+JavaScript   3 hrs 17 mins   ██▒░░░░░░░░░░░░░░░░░░░░░░   09.58 %
+Markdown     2 hrs 46 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+TypeScript   2 hrs 45 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.02 %
 ```
 
 <!--END_SECTION:waka-->
