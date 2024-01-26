@@ -14,20 +14,20 @@
 
 <h3 align="left">Social links:</h3>
 <a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank">
-<img align="center" src="https://lokeshkr.com/assets/svg/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
+<img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
 </a>
 &nbsp
 <a href="https://t.me/lokesshk">
-<img align="center" src="https://lokeshkr.com/assets/svg/telegram.svg" alt="telegram-link" height="30" width="30" >
+<img align="center" src="./assets/telegram.svg" alt="telegram-link" height="30" width="30" >
 </a>
 &nbsp
 <a href="https://twitter.com/lokeshtweets_">
-<img align="center" src="https://lokeshkr.com/assets/svg/twitter.svg" alt="twitter-link" height="30" width="30" >
+<img align="center" src="./assets/twitter.svg" alt="twitter-link" height="30" width="30" >
 </a>
 &nbsp
 <!--
 <a href="https://lokeshkr.com">
-<img align="center" src="https://lokeshkr.com/assets/svg/web.svg" alt="personal-website-link" height="30" width="30" >
+<img align="center" src="./assets/web.svg" alt="personal-website-link" height="30" width="30" >
 </a>
 -->
 
