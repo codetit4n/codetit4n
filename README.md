@@ -1,5 +1,5 @@
 <h1 align="center">Namaskaram 🙏 , I'm Lokesh</h1>
-<h3 align="center">I am a Blockchain Developer who loves building Decentralized Applications and systems using Blockchain Technology. I am always looking to learn and expand my skill set.</h3>
+<h4 align="center">I am a Software Developer, currently focusing on Blockchain and other decentralized tech. I am always looking to learn and expand my skill set.</h4>
 <hr/>
 
 - 🔭 I’m currently **Building GameFi Infrastructure** at [LYNC](https://www.lync.world/)
@@ -8,28 +8,27 @@
 
 - 🌱 I’m currently focusing on **Rust and [Move](https://aptos.dev/move/move-on-aptos)**
 
-- 📫 How to reach me **lokeshkumar636@yahoo.com**
+- 📫 How to reach me **hello@lokeshkr.com**
 
 <hr/>
 
 <h3 align="left">Social links:</h3>
-<a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank">
-<img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
+<a href="https://twitter.com/lokeshtweets_">
+<img align="center" src="./assets/twitter-x.svg" alt="twitter-link" height="37" width="37" >
 </a>
 &nbsp
 <a href="https://t.me/lokesshk">
 <img align="center" src="./assets/telegram.svg" alt="telegram-link" height="30" width="30" >
 </a>
 &nbsp
-<a href="https://twitter.com/lokeshtweets_">
-<img align="center" src="./assets/twitter.svg" alt="twitter-link" height="30" width="30" >
+<a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank">
+<img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
 </a>
 &nbsp
-<!--
 <a href="https://lokeshkr.com">
 <img align="center" src="./assets/web.svg" alt="personal-website-link" height="30" width="30" >
 </a>
--->
+&nbsp
 
 <hr/>
 
