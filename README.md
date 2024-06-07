@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently focusing on **Rust , [Move](https://aptos.dev/move/move-on-aptos)** , and [Sway](https://docs.fuel.network/docs/sway/)
 
-- 📫 How to reach me **hello@lokeshkr.com**
+- 📫 Best way to reach me **hello@lokeshkr.com**
 
 <hr/>
 
@@ -23,7 +23,7 @@
 <img align="center" src="./assets/telegram.svg" alt="telegram-link" height="30" width="30" >
 </a>
 &nbsp
-<a href="https://linkedin.com/in/lokesh-kumar-nalot-0baa691b9" target="_blank">
+<a href="https://www.linkedin.com/in/lokesh-kumar-0baa691b9" target="_blank">
 <img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
 </a>
 &nbsp
