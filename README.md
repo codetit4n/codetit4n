@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Sway           16 hrs 48 mins  ████████████▒░░░░░░░░░░░░   49.91 %
-TypeScript     3 hrs 53 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.58 %
-Rust           3 hrs 44 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   11.11 %
-JavaScript     2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.34 %
-Markdown       1 hr 21 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.05 %
+Sway         16 hrs 46 mins  ██████████████░░░░░░░░░░░   55.83 %
+TypeScript   3 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.98 %
+Rust         2 hrs 14 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.47 %
+JavaScript   2 hrs 8 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.11 %
+Todotxt      1 hr 15 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.18 %
 ```
 
 <!--END_SECTION:waka-->
