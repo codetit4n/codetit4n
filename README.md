@@ -39,11 +39,11 @@
 <!--START_SECTION:waka-->
 
 ```txt
-Solidity     20 hrs 4 mins   ███████████████▒░░░░░░░░░   61.07 %
-JavaScript   4 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.45 %
-TypeScript   2 hrs 25 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 %
-Lua          2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.98 %
-Rust         1 hr 5 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.34 %
+Solidity     15 hrs 48 mins  ███████████▒░░░░░░░░░░░░░   45.86 %
+TypeScript   7 hrs 45 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.51 %
+JavaScript   4 hrs 5 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+Lua          2 hrs 17 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.65 %
+Rust         1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
 ```
 
 <!--END_SECTION:waka-->
