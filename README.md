@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently focusing on **Rust , [Move](https://aptos.dev/move/move-on-aptos)** , and [Sway](https://docs.fuel.network/docs/sway/)
 
-- 📫 Best way to reach me **hello@lokeshkr.com**
+- 📫 Best way to reach me **hi@loke.sh**
 
 <hr/>
 
@@ -27,7 +27,7 @@
 <img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
 </a>
 &nbsp
-<a href="https://lokeshkr.com">
+<a href="https://loke.sh">
 <img align="center" src="./assets/web.svg" alt="personal-website-link" height="30" width="30" >
 </a>
 &nbsp
@@ -48,11 +48,6 @@ JSON          1 hr 12 mins    █▒░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
-<!--
-<a href="https://www.youtube.com/channel/UCVWq-83WQElIoIN6NGdCXLw">
-<img align="center" src="https://lokeshkr.com/assets/svg/youtube.svg" alt="youtube-link" height="30" width="30"/>
-</a>
--->
 <details>
   <summary>📈 GitHub Stats</summary>
   <br/>
