@@ -18,7 +18,7 @@
 - **[Move](https://aptos.dev/move/move-on-aptos)** – Writing safe and scalable smart contracts.
 - **[Sway](https://docs.fuel.network/docs/sway/)** – The smart contract language for decentralized apps on Fuel.
 
-##### 📫 Get In Touch:
+#### 📫 Get In Touch:
 
 - Website: [loke.sh](https://loke.sh)
 - Email: [hi@loke.sh](mailto:hi@loke.sh)
