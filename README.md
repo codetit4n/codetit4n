@@ -20,8 +20,8 @@
 
 #### 📫 Get In Touch:
 
-- Website: [loke.sh](https://loke.sh)
-- Email: [hi@loke.sh](mailto:hi@loke.sh)
+- **Website** - [loke.sh](https://loke.sh)
+- **Email** - [hi@loke.sh](mailto:hi@loke.sh)
 
 <hr/>
 
