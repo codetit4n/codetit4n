@@ -4,33 +4,24 @@
 
 </center>
 
-- 🔭 I’m currently **Building GameFi Infrastructure** at [LYNC](https://www.lync.world/)
+##### 🚀 Currently Working as a Blockchain Developer at [LYNC](https://www.lync.world)
 
-- 💬 Ask me about **Blockchain, Account Abstraction, NFTs, Defi, Solidity, TypeScript, Rust, Move, Sway etc.**
+##### 💬 Let's Talk About:
 
-- 🌱 I’m currently focusing on **Rust , [Move](https://aptos.dev/move/move-on-aptos)** , and [Sway](https://docs.fuel.network/docs/sway/)
+- **Blockchain Technologies**: Defi, NFTs, Account Abstraction, and more.
+- **Smart Contract Development**: Solidity, Move, Sway, Rust
+- **Low-Level Programming**: Rust, C, Assembly
 
-- 📫 Best way to reach me **hi@loke.sh**
+##### 🌱 Currently Focusing On:
 
-<hr/>
+- **Rust and C** – Building high-performance systems.
+- **[Move](https://aptos.dev/move/move-on-aptos)** – Writing safe and scalable smart contracts.
+- **[Sway](https://docs.fuel.network/docs/sway/)** – The smart contract language for decentralized apps on Fuel.
 
-<h3 align="left">Social links:</h3>
-<a href="https://twitter.com/lokeshtweets_">
-<img align="center" src="./assets/twitter-x.svg" alt="twitter-link" height="37" width="37" >
-</a>
-&nbsp
-<a href="https://t.me/lokesshk">
-<img align="center" src="./assets/telegram.svg" alt="telegram-link" height="30" width="30" >
-</a>
-&nbsp
-<a href="https://www.linkedin.com/in/lokesh-kumar-0baa691b9" target="_blank">
-<img align="center" src="./assets/linkedin.svg" alt="linkedin-link" height="30" width="30" margin-right="40" >
-</a>
-&nbsp
-<a href="https://loke.sh">
-<img align="center" src="./assets/web.svg" alt="personal-website-link" height="30" width="30" >
-</a>
-&nbsp
+##### 📫 Get In Touch:
+
+- Website: [loke.sh](https://loke.sh)
+- Email: [hi@loke.sh](mailto:hi@loke.sh)
 
 <hr/>
 
