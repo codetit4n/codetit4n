@@ -4,15 +4,15 @@
 
 </center>
 
-##### 🚀 Currently Working as a Blockchain Developer at [LYNC](https://www.lync.world)
+#### 🚀 Currently Working as a Blockchain Developer at [LYNC](https://www.lync.world)
 
-##### 💬 Let's Talk About:
+#### 💬 Let's Talk About:
 
 - **Blockchain Technologies**: Defi, NFTs, Account Abstraction, and more.
 - **Smart Contract Development**: Solidity, Move, Sway, Rust
 - **Low-Level Programming**: Rust, C, Assembly
 
-##### 🌱 Currently Focusing On:
+#### 🌱 Currently Focusing On:
 
 - **Rust and C** – Building high-performance systems.
 - **[Move](https://aptos.dev/move/move-on-aptos)** – Writing safe and scalable smart contracts.
