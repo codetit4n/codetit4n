@@ -9,14 +9,14 @@
 #### 💬 Let's Talk About:
 
 - **Blockchain Technologies**: Defi, NFTs, Account Abstraction, and more.
-- **Smart Contract Development**: Solidity, Move, Sway, Rust
+- **Smart Contract Development**: Rust, Solidity, Move, Sway
 - **Low-Level Programming**: Rust, C, Assembly
 
 #### 🌱 Currently Focusing On:
 
 - **Rust and C** – Building high-performance systems.
+- **[Solana Development](https://www.anchor-lang.com/docs)** - Building smart contracts and applications on Solana using Rust and Anchor.
 - **[Move](https://aptos.dev/move/move-on-aptos)** – Writing safe and scalable smart contracts.
-- **[Sway](https://docs.fuel.network/docs/sway/)** – The smart contract language for decentralized apps on Fuel.
 
 #### 📫 Get In Touch:
 
