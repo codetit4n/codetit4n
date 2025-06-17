@@ -15,7 +15,7 @@
 #### 🌱 Currently Focusing On:
 
 - **Rust and C** – Building high-performance systems.
-- **[Solana Development](https://www.anchor-lang.com/docs)** - Building smart contracts and applications on Solana using Rust and Anchor.
+- **[Solana Blockchain](https://www.anchor-lang.com/docs)** - Building smart contracts and applications on Solana using Rust and Anchor.
 - **[Move](https://aptos.dev/move/move-on-aptos)** – Writing safe and scalable smart contracts.
 
 #### 📫 Get In Touch:
