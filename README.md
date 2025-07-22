@@ -4,7 +4,7 @@
 
 </center>
 
-#### 🚀 I am a Blockchain Developer
+### 🚀 Blockchain Developer
 
 #### 💬 Let's Talk About:
 
