@@ -4,7 +4,7 @@
 
 </center>
 
-#### 🚀 Currently Working as a Blockchain Developer at [LYNC](https://www.lync.world)
+#### 🚀 I am a Blockchain Developer
 
 #### 💬 Let's Talk About:
 
