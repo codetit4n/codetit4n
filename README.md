@@ -4,13 +4,13 @@
 
 </center>
 
-#### 🚀 Blockchain Developer
+### 🚀 Blockchain Developer
 
 #### 📫 Get In Touch:
 
 - **Website** - [loke.sh](https://loke.sh)
 - **Email** - [hi@loke.sh](mailto:hi@loke.sh)
 
-<summary>📈 GitHub Stats</summary>
-  <br/>
+#### 📈 GitHub Stats
+
 <img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats">
