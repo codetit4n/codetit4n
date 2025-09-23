@@ -4,27 +4,13 @@
 
 </center>
 
-### 🚀 Blockchain Developer
-
-#### 💬 Let's Talk About:
-
-- **Blockchain Technologies**: Defi, NFTs, Account Abstraction, and more.
-- **Smart Contract Development**: Rust, Solidity, Move, Sway
-- **Low-Level Programming**: Rust, C, Assembly
-
-#### 🌱 Currently Focusing On:
-
-- **Rust and C** – Building high-performance systems.
-- **[Solana Blockchain](https://www.anchor-lang.com/docs)** - Building smart contracts and applications on Solana using Rust and Anchor.
-- **[Move](https://aptos.dev/move/move-on-aptos)** – Writing safe and scalable smart contracts.
+#### 🚀 Blockchain Developer
 
 #### 📫 Get In Touch:
 
 - **Website** - [loke.sh](https://loke.sh)
 - **Email** - [hi@loke.sh](mailto:hi@loke.sh)
 
-<details>
-  <summary>📈 GitHub Stats</summary>
+<summary>📈 GitHub Stats</summary>
   <br/>
 <img style="object-fit: cover;" src="https://readme-stats-github-codetit4n.vercel.app/api?username=codetit4n&cc=0c1121&tc=fff" alt="github-stats">
-</details>
