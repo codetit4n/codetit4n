@@ -6,12 +6,15 @@
   - Bare-metal capacitance meter built around the [nRF52840](https://www.nordicsemi.com/Products/nRF52840).
   - Uses RC timing and SAADC measurements to estimate capacitor values.
   - [Progress checklist](https://github.com/codetit4n/nrf52840-capacitance-meter/blob/main/PROGRESS.md)
+- [nrf52840-tiny-scheduler](https://github.com/codetit4n/nrf52840-tiny-scheduler)
+  - Small bare-metal scheduler project for learning scheduling and task switching fundamentals.
+  - Status: early stage
 
 #### Recently completed
 
-| Project                                                               | Description                                                                                                                                             | Status / Notes                                                                                                                                                         |
-| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| [nrf52840-webserver](https://github.com/codetit4n/nrf52840-webserver) | Low-cost web server using the [nRF52840](https://www.nordicsemi.com/Products/nRF52840), W5500 Ethernet, microSD, FreeRTOS, and FatFs.                    | [v1.0.0](https://github.com/codetit4n/nrf52840-webserver/releases/tag/v1.0.0) released · [Technical article series](https://loke.sh/blog/nrf52840-web-server/) ongoing |
+| Project                                                               | Description                                                                                                                                                   | Status / Notes                                                                                                                                                         |
+| --------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| [nrf52840-webserver](https://github.com/codetit4n/nrf52840-webserver) | Low-cost web server using the [nRF52840](https://www.nordicsemi.com/Products/nRF52840), W5500 Ethernet, microSD, FreeRTOS, and FatFs.                         | [v1.0.0](https://github.com/codetit4n/nrf52840-webserver/releases/tag/v1.0.0) released · [Technical article series](https://loke.sh/blog/nrf52840-web-server/) ongoing |
 | [nrf52840-baremetal](https://github.com/codetit4n/nrf52840-baremetal) | Bare-metal [nRF52840](https://www.nordicsemi.com/Products/nRF52840) work covering GPIO, UARTE, SPI, startup code, linker setup, and direct peripheral access. | [Detailed write-up](https://loke.sh/blog/nrf52840-web-server/1-nrf52840-baremetal/)                                                                                    |
 
 #### Links
