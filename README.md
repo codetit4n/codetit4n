@@ -6,6 +6,7 @@
   - Bare-metal capacitance meter built around the [nRF52840](https://www.nordicsemi.com/Products/nRF52840)
   - Uses RC timing and SAADC measurements to estimate capacitor values
   - Current focus: hardware timer integration and capacitance calculation
+  - [Progress checklist](https://github.com/codetit4n/nrf52840-capacitance-meter/blob/main/PROGRESS.md)
 
 #### Recently completed
 
