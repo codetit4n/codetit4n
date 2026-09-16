@@ -3,7 +3,7 @@
 ### Active projects
 
 - [nrf52840-tiny-scheduler](https://github.com/codetit4n/nrf52840-tiny-scheduler)
-  - Small bare-metal scheduler project for learning scheduling and task switching fundamentals.
+  - Small bare-metal Round-robin co-operative scheduler project for learning scheduling and task switching fundamentals.
   - Status: early stage
 
 ### Recently completed
