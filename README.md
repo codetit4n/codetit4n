@@ -3,7 +3,7 @@
 ### Active projects
 
 - [nrf52840-tiny-scheduler](https://github.com/codetit4n/nrf52840-tiny-scheduler)
-  - Small bare-metal round-robin cooperative scheduler for learning task scheduling, timing, and basic RTOS concepts.
+  - Bare-metal Cortex-M scheduler project exploring cooperative scheduling, task context switching, SysTick, PendSV, and preemption, with the goal of running and stress-testing small existing firmware workloads on top of it.
   - Progress: [Implementation Checklist](https://github.com/codetit4n/nrf52840-tiny-scheduler/blob/main/PROGRESS.md)
 
 ### Recently completed
