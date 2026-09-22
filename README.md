@@ -6,6 +6,10 @@
   - Bare-metal Cortex-M scheduler project exploring cooperative scheduling, task context switching, SysTick, PendSV, and preemption, with the goal of running and stress-testing small existing firmware workloads on top of it.
   - Progress: [Implementation Checklist](https://github.com/codetit4n/nrf52840-tiny-scheduler/blob/main/PROGRESS.md)
 
+- [analog-electronic-load](https://github.com/codetit4n/analog-electronic-load)
+  - Analog constant-current electronic load for learning op-amp feedback, MOSFET linear operation, current sensing, and thermal design.
+  - Status: Not started yet.
+
 ### Recently completed
 
 | Project                                                                               | Description                                                                                                                                                   | Status / Notes                                                                                                                                                         |
