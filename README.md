@@ -1,4 +1,6 @@
-<a href="https://loke.sh"><img src="logo.svg" alt="loke.sh logo"/></a>
+<a href="https://loke.sh">
+  <img src="logo.svg" alt="loke.sh logo" width="300" />
+</a>
 
 **Lokesh Kumar N.** <br/>
 Engineer · Hardware, Software & Systems
