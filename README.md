@@ -3,10 +3,10 @@
 **Lokesh Kumar N.** <br/>
 Engineer · Hardware, Software & Systems
 
-[I'm](https://loke.sh/about/) an engineer getting deeper into hardware, embedded systems, and low-level engineering.
-Apart from my regular work, I am building [Navikarana Labs](https://navikarana.io) as an independent research & engineering effort.
-
 [Writing](https://loke.sh/blog/) · [Newsletter](https://loke.sh/blog/newsletter/) · [PGP Key](https://loke.sh/pgp/) · [X/twitter](https://x.com/lokedotsh)
+
+[I'm](https://loke.sh/about/) an engineer getting deeper into hardware, embedded systems, and low-level engineering.<br/>
+Apart from my regular work, I am building [Navikarana Labs](https://navikarana.io) as an independent research & engineering effort.
 
 ### Active projects
 
