@@ -1,5 +1,5 @@
 <a href="https://loke.sh">
-  <img src="logo.svg" alt="loke.sh logo" width="300" />
+  <img src="logo.svg" alt="loke.sh logo" width="325" />
 </a>
 
 **Lokesh Kumar N.** <br/>
@@ -12,12 +12,10 @@ Apart from my regular work, I am building [Navikarana Labs](https://navikarana.i
 
 ### Active projects
 
-- [nrf52840-tiny-scheduler](https://github.com/codetit4n/nrf52840-tiny-scheduler)
-  - Bare-metal Cortex-M scheduler project exploring cooperative scheduling, task context switching, SysTick, PendSV, and preemption, with the goal of running and stress-testing small existing firmware workloads on top of it.
-  - Progress: [Implementation Checklist](https://github.com/codetit4n/nrf52840-tiny-scheduler/blob/main/PROGRESS.md)
-- [analog-electronic-load](https://github.com/codetit4n/analog-electronic-load)
-  - Analog constant-current electronic load for learning op-amp feedback, MOSFET linear operation, current sensing, and thermal design.
-  - Status: Not started yet.
+| Project                                                                         | Description                                                                                                                                                                                                                  | Status / Notes                                                                                                   |
+| ------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
+| [nrf52840-tiny-scheduler](https://github.com/codetit4n/nrf52840-tiny-scheduler) | Bare-metal Cortex-M scheduler project exploring cooperative scheduling, task context switching, SysTick, PendSV, and preemption, with the goal of running and stress-testing small existing firmware workloads on top of it. | Progress: [Implementation Checklist](https://github.com/codetit4n/nrf52840-tiny-scheduler/blob/main/PROGRESS.md) |
+| [analog-electronic-load](https://github.com/codetit4n/analog-electronic-load)   | Analog constant-current electronic load for learning op-amp feedback, MOSFET linear operation, current sensing, and thermal design.                                                                                          | Status: Not started yet.                                                                                         |
 
 ### Recently completed
 
