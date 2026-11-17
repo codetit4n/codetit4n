@@ -2,13 +2,13 @@
   <img src="logo.svg" alt="loke.sh logo" width="325" />
 </a>
 
-**Lokesh Kumar N.** <br/>
+[**Lokesh Kumar N.**](https://loke.sh) <br/>
 Engineer · Hardware, Software & Systems
 
 [Writing](https://loke.sh/blog/) · [Newsletter](https://loke.sh/blog/newsletter/) · [PGP Key](https://loke.sh/pgp/) · [X/twitter](https://x.com/lokedotsh)
 
-[I'm](https://loke.sh/about/) an engineer getting deeper into hardware, embedded systems, and low-level engineering.<br/>
-Apart from my regular work, I am building [Navikarana Labs](https://navikarana.io) as an independent research & engineering effort.
+[I'm](https://loke.sh/about/) a software engineer getting deeper into **hardware, embedded systems, and low-level engineering**.<br/>
+Apart from this, I am also building [Navikarana Labs](https://navikarana.io) as an independent **research & engineering** effort.
 
 ### Active projects
 
@@ -27,4 +27,4 @@ Apart from my regular work, I am building [Navikarana Labs](https://navikarana.i
 | [nrf52840-baremetal](https://github.com/codetit4n/nrf52840-baremetal)                 | Bare-metal [nRF52840](https://www.nordicsemi.com/Products/nRF52840) work covering GPIO, UARTE, SPI, startup code, linker setup, and direct peripheral access. | [Detailed write-up](https://loke.sh/blog/nrf52840-web-server/1-nrf52840-baremetal/)                                                                                    |
 
 > [!IMPORTANT]
-> All project code is hand-written. These are primarily learning exercises, so I don't use AI tools or coding agents to write the code.
+> All project code is hand-written. These projects are mainly for learning purposes, so I don't use AI tools or coding agents to write the code.
